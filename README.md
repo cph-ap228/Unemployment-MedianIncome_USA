@@ -1,4 +1,4 @@
-# Unemployment-MedianIncome_USA
+# Unemployment- Median Household Income in USA
 
 This Dataset is build up via. the ERS(Enviromental Risk Management & Safety Inc.) using Socioeconomic indicators like the population, unemployment rate & median household income across the United States from the span of 2007 till end of 2016. 
 
