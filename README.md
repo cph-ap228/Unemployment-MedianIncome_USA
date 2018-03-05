@@ -6,10 +6,11 @@ Source: https://catalog.data.gov/dataset/county-level-data-sets
 Link to dataset: https://www.ers.usda.gov/webdocs/DataFiles/48747/Unemployment.xls?v=43125
 
 Questions: 
-1. Which city, and in what state has the highest % of unemployed people? 
-2. Comparison of two cities in a state ex. CA, LA or NY, NY. //
-3. Best improvement of employment rate //
-4. Lowest median of household income in the nation //
-5. Highest median of household income in the nation. //
+1. Which city, and in what state had the highest % of unemployed people in 2016? 
+2. Best improvement of employment rate(%) in the state of NY(from 2007 till 2016)? 
+3. What's the lowest median of household income in the nation as of 2016?
+4. What's the highest median of household income in the nation as of 2016?
+5. Compare the employment and unemployment rate of the states of New Jersey(NC) and North Carolina(NC) in 2016
+
 
 _______________________________________________________________________________________________________________________
